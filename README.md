@@ -1,2 +1,2 @@
 # Aspx-webmanagershell
-passd: "#$pwn3daspx#$h3ll"
+Password: "#$pwn3daspx#$h3ll"
